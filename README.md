@@ -16,5 +16,5 @@ Machine Learning algorithms used:
 6. XGBoost (Scikit-learn)
 
 
-Accuracy achieved: 99%(Decision Tree and XGBoost
+Accuracy achieved: 99%(Decision Tree and XGBoost)
 Dataset used: https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset
